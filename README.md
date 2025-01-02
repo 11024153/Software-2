@@ -39,4 +39,4 @@
 
 ![image](https://github.com/11024153/Software-2/blob/main/%E6%B4%BB%E5%8B%95%E5%9C%96.png)
 
-參考資料(https://cloud.tencent.com/developer/article/1751593)
+參考資料:(https://cloud.tencent.com/developer/article/1751593)
