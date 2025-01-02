@@ -2,7 +2,7 @@
 
 # StarUML-ATM
 
-![image](https://blog.csdn.net/H13602801798/article/details/80698472)
+![image](https://github.com/11024153/Software-2/blob/main/%E8%A8%AD%E8%A8%88%E5%9C%96.png)
 
 ### 自動櫃員機(ATM)也稱為ABM（自動銀行機）是一種銀行系統。這個烘焙系統允許客戶或用戶存取金融交易。這些交易可以在公共場所進行，不需要文員、收銀員或銀行出納員。
 
